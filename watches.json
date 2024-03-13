@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Apple Watch Series 7 (git)",
+        "price": 399.99,
+        "color": "Space Gray"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy Watch 4",
+        "price": 349.99,
+        "color": "Mystic Black"
+    },
+    {
+        "id": 3,
+        "name": "Fitbit Sense",
+        "price": 299.95,
+        "color": "Carbon/Graphite"
+    },
+    {
+        "id": 4,
+        "name": "Garmin Venu 2",
+        "price": 399.99,
+        "color": "Granite Blue with Silver Hardware"
+    },
+    {
+        "id": 5,
+        "name": "Huawei Watch GT 3",
+        "price": 279.99,
+        "color": "Titanium Grey"
+    },
+    {
+        "id": 6,
+        "name": "Fossil Gen 6",
+        "price": 299.00,
+        "color": "Rose Gold Stainless Steel"
+    }
+]
